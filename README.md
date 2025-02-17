@@ -1,4 +1,4 @@
-# sprint_8_projetc
+# sprint_8_project
 
 Información sobre las bases de datos:
 
